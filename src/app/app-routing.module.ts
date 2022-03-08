@@ -27,7 +27,6 @@ const routes: Routes = [
   { path: 'contactUs', component: ContactUsComponent },
   { path: 'aboutUs', component: ContactUsComponent }, // add about us component
   { path: 'forgetPass', component: ForgetPasswordComponent },
-
   { path: 'Cart', component: CartComponent },
   { path: 'checkout', component: CheckoutComponent },
   { path: 'payment', component: PaymentComponent },
